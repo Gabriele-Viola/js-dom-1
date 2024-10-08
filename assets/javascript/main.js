@@ -6,6 +6,7 @@ console.log(bulbEl);
 
 btnEl.addEventListener('click',() =>{
     bulbEl.src = "./assets/img/yellow_lamp.png"
+    btnEl.innerHTML ='Spegni'
 })
 
 

@@ -1,0 +1,26 @@
+.off{
+    background-color: rgb(40, 40, 40);
+}
+.container{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.button{
+    text-align: center;
+    width: 100%;
+
+}
+.btn{
+    border: none;
+    color: white;
+    background-color: rgb(118, 118, 118);
+    border-radius: 200px;
+}
+p{ 
+    line-height: 20rem;
+}
+.on{
+    color: white;
+}
